@@ -1,1 +1,2 @@
 git init - create a Git local repository
+git diff - check the differences
